@@ -19,9 +19,3 @@ Sie benötigen einen C++-Compiler (wie `g++`).
 Öffnen Sie das Terminal in diesem Ordner und geben Sie ein:
 ```bash
 g++ -o temp_wandler main.cpp
-
-
-
-
-
-
